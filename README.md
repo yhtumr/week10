@@ -2,7 +2,8 @@
 
 ## 設計ドキュメント
 
-[要件定義・基本設計・詳細設計の一覧（Googleスプレッドシート）]((https://docs.google.com/spreadsheets/d/1jUfQgU1ykOBZeuGFqLrPdxzMQzOnilOgilULdX6hVXU/edit?gid=0#gid=0))
+[要件定義・基本設計・詳細設計の一覧（https://docs.google.com/spreadsheets/d/1jUfQgU1ykOBZeuGFqLrPdxzMQzOnilOgilULdX6hVXU/edit?gid=0#gid=0)]
+
 
 
 ## 機能一覧
